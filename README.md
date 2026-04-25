@@ -1,7 +1,6 @@
 # 🛒 Online IT Hardware Shop Management System
 
 A full-stack web-based application developed using **Java Servlets, JSP, and MySQL** that allows users to browse IT hardware products, add them to cart, and place orders seamlessly.
-
 This project demonstrates core concepts of **Java backend development**, **database integration**, and **dynamic web applications**.
 
 ---
@@ -73,6 +72,7 @@ This project focuses on:
 
 ### 📑 Order Details Table
 ![DB Order Details](screenshots/database-order-details.png)
+
 
 ---
 
