@@ -42,36 +42,41 @@ This project focuses on:
 
 ## 📸 Screenshots
 
-### 🖥️ Products Page
-![Products](screenshots/Products.png)
+### 🛍️ Products Page
+
+![Products](Screenshots/Products.png)
 
 ### 🔐 Login Page
-![Login](screenshots/login-page.png)
+
+![Login](Screenshots/login-page.png)
 
 ### 📝 Register Page
-![Register](screenshots/register-page.png)
+
+![Register](Screenshots/register-page.png)
 
 ### 💳 Payment Page
-![Payment](screenshots/payment-page.png)
+
+![Payment](Screenshots/payment-page.png)
 
 ### ✅ Order Placed Successfully
-![Success](screenshots/order-placed-successfully.png)
 
----
+![Order Success](Screenshots/order-placed-successfully.png)
 
-## 🗄️ Database Screenshots
+### 🗄️ Database - Users Details
 
-### 📊 Products Table
-![DB Products](screenshots/database-all-products.png)
+![Users DB](Screenshots/database-users-details.png)
 
-### 📦 Orders Table
-![DB Orders](screenshots/database-orders.png)
+### 🗄️ Database - Orders
 
-### 👤 Users Table
-![DB Users](screenshots/database-users-details.png)
+![Orders DB](Screenshots/database-orders.png)
 
-### 📑 Order Details Table
-![DB Order Details](screenshots/database-order-details.png)
+### 🗄️ Database - Order Details
+
+![Order Details DB](Screenshots/database-order-details.png)
+
+### 🗄️ Database - All Products
+
+![All Products DB](Screenshots/database-all-products.png)
 
 
 ---
